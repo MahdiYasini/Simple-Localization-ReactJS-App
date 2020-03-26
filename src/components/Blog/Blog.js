@@ -4,7 +4,7 @@ import englishLogoUrl from '../../assets/images/English_Logo.png'
 import mainImageUrl from '../../assets/images/main.jpg'
 import zarif from '../../assets/images/zarif.jpg'
 
-import { useTranslation, withTranslation } from 'react-i18next';
+import { useTranslation } from 'react-i18next';
 
 const useStyles = makeStyles(theme => ({
     formControl: {
@@ -143,4 +143,4 @@ const Blog = () => {
     )
 }
 
-export default withTranslation()(Blog);
+export default Blog;
