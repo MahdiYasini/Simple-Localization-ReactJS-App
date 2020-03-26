@@ -1,0 +1,11 @@
+{
+    "translations" : {
+      "menubar":{
+          "home": "Home",
+          "ConsularAffairs": "Consular Affairs",
+          "ElectronicVisa": "Electronic Visa"
+      },
+      "logoUrl": "../../assets/images/English_Logo.png",
+      "message": "I have disagreements with some and more agreements with others. But that doesn't mean I cannot listen to those I disagree with."
+    }
+  }

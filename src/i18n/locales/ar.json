@@ -1,0 +1,11 @@
+{
+    "translations" : {
+      "menubar":{
+          "home": "الصفحة الرئيسية",
+          "ConsularAffairs": "الشؤون القنصلية",
+          "ElectronicVisa": "التأشيرة الإلكترونية"
+      },
+      "logoUrl": "../src/assets/images/English_Logo.png",
+      "message": "لدي خلافات مع بعض وأكثر من الاتفاقات مع الآخرين. ولكن هذا لا يعني أنني لا أستطيع الاستماع إلى أولئك الذين أختلف معهم."
+    }
+  }
